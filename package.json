@@ -1,0 +1,14 @@
+{
+  "name": "figma-mcp-practice",
+  "version": "1.0.0",
+  "description": "Figma MCP server practice",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "axios": "^1.7.0"
+  }
+}
